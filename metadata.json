@@ -1,0 +1,7 @@
+{
+  "name": "Auto Dream Journal",
+  "description": "A multi-modal dream journal that transcribes voice notes, visualizes dreams with AI, and offers psychological interpretation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
